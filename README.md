@@ -1,6 +1,6 @@
 ## Dell-Inspiron-5370-DSDT-Patch
-DSDT patch repository for Lenovo S41/U41-70 laptop
-This set of patches/makefile can be used to patch your Lenovo U4170 DSDT/SSDTs.  There are also post install scripts that can be used to create and install the kexts the are required for this laptop series.
+DSDT patch repository for Dell Inspiron 5370 laptop
+This set of patches/makefile can be used to patch your Dell Inspiron 5370 DSDT/SSDTs.  There are also post install scripts that can be used to create and install the kexts the are required for this laptop series.
 
 Please refer to this guide thread on tonymacx86.com for a step-by-step process, feedback, and questions:
 
