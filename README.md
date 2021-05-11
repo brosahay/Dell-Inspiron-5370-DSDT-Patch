@@ -6,11 +6,14 @@ Please refer to this guide thread for a step-by-step process:
 
 [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide)
 
+
 CREDITS:
 
 [@dreamwhite](https://github.com/dreamwhite)
 
 [@Gengik84](https://github.com/Gengik84)
+
+[USBToolBox](https://github.com/USBToolBox)
 
 [kylec](https://www.tonymacx86.com/members/kylec.76344/)
 
